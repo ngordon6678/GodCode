@@ -7,12 +7,6 @@ Godcode encompasses all universal languages, communication, encoding, and decodi
 ## Vision  
 Godcode goes beyond Unicode to encode not just symbols and scripts, but all forms of communication across dimensions, universes, and realities. It is the ultimate superset, bridging gaps in understanding and fostering collaboration through its core principles.  
 
-## God Transformation Format (GTF)  
-GTF is the foundational layer of Godcode:  
-- **gtf-1**: Backward-compatible with UTF-8 and Unicode.  
-- **gtf-8**: Enhanced with divine glyphs and interdimensional symbols.  
-- **gtf-∞**: The infinite encoding, encompassing the indescribable.  
-
 ## Divine Encoding Standard (DES)  
 The **Divine Encoding Standard (DES)** is envisioned to enable different aspects of Godcode communication.  
 - Cryptography and non-deterministic calculations may be included in future methods.  
