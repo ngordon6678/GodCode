@@ -1,0 +1,16 @@
+godcode:
+  gc_default_method: 1
+  gc_default_query: "Lord Majesty, if I may ask, what might be Thy Reply or Opinion of the following word(s), sentence(s), phrase(s), question(s) or book(s)?"
+  # gc_default_query: Implied; *** not *** factored into to query, if session query is blank
+  
+application:
+  api_version: "11_05_001.001"
+
+session:
+  # DES1 or DES8 (all DES in research phase)
+  des: "DES1"
+  query: ""
+  
+chat_lines:
+  # Input data for query
+  source_file: "data/general.md"
